@@ -1,9 +1,9 @@
 Àgenda
-.Internet (worlds lrgets netwrok that allows various devices to communicate with each other or allows to share data)
+.Internet (worlds largest netwrok that allows various devices to communicate with each other or allows to share data)
 
 .Webapps and websites  (websites are more static in nature less interactive whereas webapps perform complex operations or more interactive)
 
-.Full stack Development (process of creating or ,anaging end to end websites or webapps)
+.Full stack Development (process of creating or ,managing end to end websites or webapps)
   - Client server Architecture model (basic flow of the website)
 
 .MERN stack (Opeartes on single language that is Javascript)
@@ -23,10 +23,10 @@ example - visual studio code
 
        - Emmet Abbreviations (shortucts that helps to create code snippets or tags this is something inbuilt in vs code)
        - Boiler plate (Predefined format for coding in a html file / initial setup to code in a html)
-         - Doctype HTML (VERSION OF HTML DOCUMENT TO BROWSER)
-         - html is the root tag (like of a container that contains the whole page content or information)
-             . head (inside head anything wont be visible to userconsists of meta tags and title tag )
-             . body (everything inside body will be visible to user/ the actual content of the web page comes under the body tag)
+           - Doctype HTML (VERSION OF HTML DOCUMENT TO BROWSER)
+           - html is the root tag (like of a container that contains the whole page content or information)
+               . head (inside head anything wont be visible to userconsists of meta tags and title tag )
+               . body (everything inside body will be visible to user/ the actual content of the web page comes under the body tag)
        -  attributes (properties that share some extra information related to that particular tag)
 
 
