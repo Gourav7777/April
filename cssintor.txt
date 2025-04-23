@@ -17,8 +17,8 @@ CSS Selectors (job is to select HTML Elements so that we can style them)
   Specificity 
   Inline 1000
   ID 100
-  Class / Attribute - 10
-  Elements 1
+  Classes / attributes / pseudo-classes  10
+ Elements / pseudo-elements  1
   Universal 0
 
 CSS Box Model
