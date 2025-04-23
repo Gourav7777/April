@@ -9,7 +9,7 @@ priority (Inline has topmost)
 CSS Selectors (job is to select HTML Elements so that we can style them)
   - Simple Selectors (ID, Class,  Elements/Tags)
   - Combinators (DESCENDANT (space) child (>) adjacentSibling(+) general sibling(~`))
-  - Pseudo Selectors (Pesudo classes for that examples are - hover focus first-child nth-child last-child)
+  - Pseudo Class Selectors (Pesudo classes for that examples are - hover focus first-child nth-child last-child)
   - Pseudo Elements Selectors (before after selection )
   - Attribute Selector
   - Universal Selectors
