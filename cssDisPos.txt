@@ -1,0 +1,15 @@
+Display
+ - Block
+ - Inline
+ - Inline-Block
+ - None (Display None & Visibility Hidden)
+
+ Positions
+  - Static   (default position in the document)
+  - Relative (moves as per its initial position)
+  - Absolute (moves as per its positioned ancestor or parent)
+  - Fixed
+  - Sticky (it is kind of hybrid of fixed as well as relative)
+
+
+- Media Query 

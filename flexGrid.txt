@@ -1,0 +1,24 @@
+CSS FlexBox (It is a flexible box and it hlps to create one dimensional layouts either on row or column side )
+Flexbox helps us to make our page responsive
+Container Properties
+. flex
+. flex direction
+. justfiy content (aligns child elements as per main axis)
+. align-items  (aligns child elements as per cross axis)
+. flex-wrap
+. gap
+.flex-flow 
+
+Child Properties
+
+flex grow
+flex shrink
+order
+flex-basis
+align-self
+
+CSS Grid (creates a 2d layouts)
+
+display : Grid
+grid-template-coulmns (setting number of columns per row and providing width to each column)
+grid-template-rows

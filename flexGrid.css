@@ -1,0 +1,36 @@
+.parent{
+    display: grid;
+    border: 1px solid black;
+    padding: 20px;
+    grid-template-columns: repeat(3,1fr);
+    height: 500px;
+    gap: 10px;
+
+}
+
+.child{
+   
+    border: 1px solid red;
+   
+}
+@media (width<=700px){
+    .parent{
+        
+        grid-template-columns: repeat(2,1fr);
+        
+    
+    }
+}
+/* @media (max-width:405px){
+    .parent{
+        
+        grid-template-columns: repeat(1,1fr);
+        
+    
+    }
+} */
+
+
+
+
+
