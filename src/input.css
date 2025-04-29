@@ -1,0 +1,34 @@
+@import "tailwindcss";
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
+
+body{
+    margin: 0;
+    padding: 0;
+    font-family: "Lora", serif;
+    font-weight: 400;
+    font-optical-sizing: auto;
+    
+    font-style: normal;
+}
+.top-section{
+
+    filter: brightness(0.5);
+}
+.top-content{
+    transform: translate(-50%,-50%);
+  
+}
+.top-header{
+    padding: 5px 20px;
+    filter: brightness(1);
+}
+a{
+    margin-right: 20px;
+}
+.abc{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+}
