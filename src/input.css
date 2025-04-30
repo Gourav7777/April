@@ -1,14 +1,13 @@
 @import "tailwindcss";
-@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@0,400..700;1,400..700&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Lora:ital,wght@1,400..700&display=swap');
 body{
     margin: 0;
     padding: 0;
     font-family: "Lora", serif;
-    font-weight: 400;
     font-optical-sizing: auto;
-    
-    font-style: normal;
+    font-weight:400;
+    font-style: italic;
+   
 }
 .top-section{
 
@@ -25,10 +24,45 @@ body{
 a{
     margin-right: 20px;
 }
-.abc{
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
-    padding: 20px;
+
+
+.box{
+    position: relative;
+    overflow: hidden;
+    
+}
+
+.image-content{
+    position: absolute;
+    top: 0;
+    left: 0;
+    border: 1px solid white;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    transform: translateY(100%);
+    transition-property: transform;
+    transition-duration: 1s;
+    transition-delay: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+.box:hover img{
+    transform: translateY(-100%);
+    transition-property: transform;
+    transition-duration: 1s;
+    transition-delay: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+
+
+.box img{
+    /* transform: translateY(-100%); */
+    transition-property: transform;
+    transition-duration: 1s;
+    transition-delay: 0.5s;
+    transition-timing-function: ease-in-out;
+}
+.box:hover .image-content{
+    transform: translateY(0%);
 }
