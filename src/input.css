@@ -50,6 +50,7 @@ a{
 .box:hover img{
     transform: translateY(-100%);
     transition-property: transform;
+    
     transition-duration: 1s;
     transition-delay: 0.5s;
     transition-timing-function: ease-in-out;
