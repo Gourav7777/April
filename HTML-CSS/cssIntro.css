@@ -1,0 +1,13 @@
+
+*{
+    font-family: cursive;
+    margin-left: 200;
+}
+
+.parent #pp{
+    background-color: green;
+}
+
+#pp{
+    background-color: blue;
+}  

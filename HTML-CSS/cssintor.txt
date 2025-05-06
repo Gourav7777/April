@@ -1,0 +1,38 @@
+CSS - Cascading Style Sheet 
+    - It is used to design our web page or we can say to style our web page
+Ways to implement CSS - (3 Ways)
+   - Inline CSS ( Style attribute)
+   - Internal   (Style Tag)
+   - External   (create external file and link that file)
+priority (Inline has topmost)
+
+CSS Selectors (job is to select HTML Elements so that we can style them)
+  - Simple Selectors (ID, Class,  Elements/Tags)
+  - Combinators (DESCENDANT (space) child (>) adjacentSibling(+) general sibling(~`))
+  - Pseudo Class Selectors (Pesudo classes for that examples are - hover focus first-child nth-child last-child)
+  - Pseudo Elements Selectors (before after selection )
+  - Attribute Selector
+  - Universal Selectors
+
+  Specificity 
+  Inline 1000
+  ID 100
+  Classes / attributes / pseudo-classes  10
+ Elements / pseudo-elements  1
+  Universal 0
+
+CSS Box Model
+  
+  - Content Padding Border Margin
+
+CSS units
+  - Absolute (fixed -px)
+  - Relative (
+      vh (relative to viewport)
+      vw (relative to viewport)
+     rem (relative to root element)
+      em (relative to parent)
+     percent (relative to its parent)
+     )
+ 
+  

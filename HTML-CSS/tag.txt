@@ -1,0 +1,24 @@
+heading tags (h1-h6)
+paragraph tag
+image tag
+div 
+anchor
+list tags (ol, ul)
+span
+Hr 
+br 
+table
+form 
+input
+sub & sup 
+
+
+- Semantic tags
+header 
+footer 
+nav 
+section 
+main
+aside
+article
+address
