@@ -1,0 +1,34 @@
+Javascript - it is a general purpose programming language that works in frontend as well as in backend
+
+Datatypes
+- Primitive (which is something predefined and that directly stores value and these are immutables)
+
+   . String (whatever data inside quotes)
+   . Number
+   . Boolean (true or false)
+   . Symbol 
+   . BigInt (Large integers it stores)
+   . Null  (Intentionally absence of value)
+   . Undefined (variable which do not have any value yet)
+
+- Non-Primitive (It stores multiple values and these are mutables and they are stored as a reference in the memory )
+
+   . Objects
+   . Arrays
+   . Functions
+
+
+Variables 
+Box/Container/Store that stores some data
+
+
+Varible declaration rules
+ a-z
+ A-Z 
+ _ $ 
+ 
+
+Variable Declaratives 
+- let (redeclaration can be done)
+- var (Reassignment and redeclaration both are possible)
+- const (no reassignment and redeclaration)

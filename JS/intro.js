@@ -1,0 +1,5 @@
+
+console.log(typeof(a));
+
+
+
