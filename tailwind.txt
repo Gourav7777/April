@@ -1,4 +1,0 @@
-Tailwind is a CSS Framework 
-Framworks are something where some predefined code is there and we need to use that accordingly in order to make our development process faster as well as easy
-
-In Tailwind we have some predefined utility classes
